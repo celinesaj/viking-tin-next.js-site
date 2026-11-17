@@ -1,0 +1,19 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /complete-phone
+Disallow: /create-account
+Disallow: /forgot-password/
+Disallow: /login
+Disallow: /oauth/
+Disallow: /point-of-sale
+Disallow: /verify-signup
+
+# Host
+Host: https://vikingtin.ae
+
+# Sitemaps
+Sitemap: https://vikingtin.ae/sitemap.xml
